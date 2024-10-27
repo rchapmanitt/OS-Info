@@ -5,6 +5,3 @@ console.log("         Operating System Information            ");
 console.log("-------------------------------------------------");
 console.log("   ", os.version(), "|", os.release(), "|", os.type());
 console.log("-------------------------------------------------\n");
-
-
-
